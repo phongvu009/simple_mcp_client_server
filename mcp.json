@@ -1,0 +1,11 @@
+//for UI 
+//{
+//  "server":[
+//    {
+//      "name" : "Get Weather Test",
+//      "transport": {
+//        "type": "stdio"
+//      }
+//    }
+//  ]
+//}

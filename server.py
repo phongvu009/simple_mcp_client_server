@@ -27,4 +27,4 @@ def weather_report(location: str) -> str:
 
 if __name__ == "__main__":
     # default transportType is stdio
-    mcp.run(host="0.0.0.0")
+    mcp.run()
